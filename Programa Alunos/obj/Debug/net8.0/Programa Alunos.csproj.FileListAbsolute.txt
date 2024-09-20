@@ -1,0 +1,14 @@
+C:\C#\Programa Alunos\bin\Debug\net8.0\Programa Alunos.exe
+C:\C#\Programa Alunos\bin\Debug\net8.0\Programa Alunos.deps.json
+C:\C#\Programa Alunos\bin\Debug\net8.0\Programa Alunos.runtimeconfig.json
+C:\C#\Programa Alunos\bin\Debug\net8.0\Programa Alunos.dll
+C:\C#\Programa Alunos\bin\Debug\net8.0\Programa Alunos.pdb
+C:\C#\Programa Alunos\obj\Debug\net8.0\Programa Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Programa Alunos\obj\Debug\net8.0\Programa Alunos.AssemblyInfoInputs.cache
+C:\C#\Programa Alunos\obj\Debug\net8.0\Programa Alunos.AssemblyInfo.cs
+C:\C#\Programa Alunos\obj\Debug\net8.0\Programa Alunos.csproj.CoreCompileInputs.cache
+C:\C#\Programa Alunos\obj\Debug\net8.0\Programa Alunos.dll
+C:\C#\Programa Alunos\obj\Debug\net8.0\refint\Programa Alunos.dll
+C:\C#\Programa Alunos\obj\Debug\net8.0\Programa Alunos.pdb
+C:\C#\Programa Alunos\obj\Debug\net8.0\Programa Alunos.genruntimeconfig.cache
+C:\C#\Programa Alunos\obj\Debug\net8.0\ref\Programa Alunos.dll
